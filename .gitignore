@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.chroma/
+data/chroma/
+data/chroma_test/
+error.pdf
